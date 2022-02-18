@@ -6,10 +6,25 @@ https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12XH_A1/index
 #EXTINF:-1, tvg-logo="0000.jpg",CBS New York
 https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
 
+#EXTINF:-1, tvg-logo="0000.jpg",CBSN New York NY (720p)
+http://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8
+
 #EXTINF:-1, tvg-logo="0000.jpg",NBC New York 
 http://38.91.57.12:2082/nbc/playlist.m3u8
 
-Telemundo WKAQ Noticias Puerto Rico
+#EXTINF:-1, tvg-logo="0000.jpg",NBC New York 2
+https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
+
+#EXTINF:-1, tvg-logo="0000.jpg",FOX 5 New York NY (WNYW) (720p)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WNYW-Monetizer.m3u8
+
+#EXTINF:-1, tvg-logo="0000.jpg",PIX11 New York NY (720p)
+https://content.uplynk.com/channel/98828f7707b84dc496472d5789143df2.m3u8
+
+#EXTINF:-1, tvg-logo="0000.jpg",WXTV-DT1 (Univision 41) (720p)
+https://v-ny.theus6tv.tk/hls/41.1/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="0000.jpg",Telemundo WKAQ Noticias Puerto Rico
 https://wkaqlive-lh.akamaihd.net/i/PR_STREAM1@311877/master.m3u8
 
 #EXTINF:0,[B][COLOR mediumslateblue]== Distrito Nacional ==[/COLOR][/B]
