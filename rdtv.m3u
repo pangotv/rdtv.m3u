@@ -3,8 +3,11 @@
 #EXTINF:-1, tvg-logo="news12.jpg",NEWS 12 THE BRONX
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12XH_A1/index_new.m3u8
 
-#EXTINF:-1, tvg-logo="news12.jpg",CBS New York
+#EXTINF:-1, tvg-logo="0000.jpg",CBS New York
 https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
+
+#EXTINF:-1, tvg-logo="0000.jpg",NBC New York 
+http://38.91.57.12:2082/nbc/playlist.m3u8
 
 #EXTINF:0,[B][COLOR mediumslateblue]== Distrito Nacional ==[/COLOR][/B]
 
