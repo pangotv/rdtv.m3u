@@ -27,8 +27,6 @@ https://v-ny.theus6tv.tk/hls/41.1/playlist.m3u8
 #EXTINF:-1, tvg-logo="0000.jpg",Telemundo WKAQ Noticias Puerto Rico
 https://wkaqlive-lh.akamaihd.net/i/PR_STREAM1@311877/master.m3u8
 
-#EXTINF:0,[B][COLOR mediumslateblue]== Distrito Nacional ==[/COLOR][/B]
-
 #EXTINF:-1, tvg-logo="lunatv.jpg", lunatv
 https://ss2.domint.net:3228/luna_str/lunatv/chunklist_w417305847.m3u8
 
@@ -37,9 +35,6 @@ https://cdn4.hostlagarto.com:8081/static/telecanal12/chunks.m3u8
 
 #EXTINF:-1, tvg-logo="300x95.png", RNN
 https://ss2.domint.net:3202/rnn_str/canal27/chunklist_w998557442.m3u8
-
-#EXTINF:0,[B][COLOR darkorange]== Provincia Duarte ==[/COLOR][/B]
-
 
 #EXTINF:-1,HMTV
 https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/playlist.m3u8
@@ -58,8 +53,6 @@ http://newyorkstream.ddns.net:5854/telenord12/telenord12/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="Telenord.jpg",TELENORD Canal 8
 http://newyorkstream.ddns.net:5854/telenord8/telenord8/chunklist_w898524169.m3u8
-
-#EXTINF:0,[B][COLOR red]== Santiago De Los Caballeros ==[/COLOR][/B]
 
 #EXTINF:-1 tvg-logo="0000000.jpg",canal25rd
 https://ss3.domint.net:3150/c25_str/canal25/chunklist_w174445157.m3u8
@@ -121,36 +114,5 @@ https://cloud3.streaminglivehd.com:1936/8256/8256/chunklist_w1876162753.m3u8
 #EXTINF:-1 tvg-logo="0000000.jpg",romanatv42
 https://5ee0faac3bbae.streamlock.net/cvmhbyrcat/cvmhbyrcat/chunklist_w1778575615.m3u8
 
-#EXTINF:-1 tvg-logo="0000000.jpg",tvo
-https://rctvhd.net:8081/tvoromanalive/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="0000000.jpg",canal19
 https://live.teledom.info:3713/live/cinevisionlive.m3u8
-
-
-#EXTINF:-1 tvg-logo="0000000.jpg",telebahiasd
-https://playback2.akamaized.net/streams/18988261_7725211_lsi7jhpwzstuw4n3w69_1/exp=1637115094~acl=%2f*~data=hdntl~hmac=9efbb016e61b5698678d24b8f26be6f796d08e2fd7c8d217da5b66c2525ba54f/media/18988261_7725211_lsi7jhpwzstuw4n3w69_1@2128000p.m3u8?dw=14400&ts=1637028000
-
-#EXTINF:-1 tvg-logo="0000000.jpg",acentotv
-https://acentotv01.streamprolive.com/hls/live.m3u8
-
-#EXTINF:-1 tvg-logo="0000000.jpg",telesantodomingo
-https://vdo1.streamgato.us:3550/live/telesantodomingolive.m3u8
-
-#EXTINF:-1 tvg-logo="0000000.jpg",reportero
-https://cdn4.hostlagarto.com:8081/static/Reporterotv/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4QUyVBQ.png",DO | ESTV
-http://cm.hostlagarto.com:8081/ESTV/estv.myStream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9HnBtC9.png",DO | Faro Vision
-http://184.173.181.2:1935/8060/8060/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wYklHWy.png",DO | Telecanal 28
-http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0Bbj2lh.jpg",DO | Telefuturo Canal 23
-http://ss8.domint.net:2118/tf_str/futu/master.m3u8
-
-#EXTINF:-0 Telefuturo Canal 233
-http://ss8.domint.net:2118
