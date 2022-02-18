@@ -27,6 +27,9 @@ https://v-ny.theus6tv.tk/hls/41.1/playlist.m3u8
 #EXTINF:-1, tvg-logo="0000.jpg",Telemundo WKAQ Noticias Puerto Rico
 https://wkaqlive-lh.akamaihd.net/i/PR_STREAM1@311877/master.m3u8
 
+#EXTINF:-1, tvg-logo="0000.jpg",France 24 Español (1080p)
+http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
+
 #EXTINF:-1, tvg-logo="lunatv.jpg", lunatv
 https://ss2.domint.net:3228/luna_str/lunatv/chunklist_w417305847.m3u8
 
