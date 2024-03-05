@@ -9,44 +9,14 @@ https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
 #EXTINF:-1, tvg-logo="0000.jpg",CBSN New York NY (720p)
 http://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8
 
-#EXTINF:-1, tvg-logo="0000.jpg",NBC New York 
-http://38.91.57.12:2082/nbc/playlist.m3u8
-
 #EXTINF:-1, tvg-logo="0000.jpg",NBC New York 2
 https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
-
-#EXTINF:-1, tvg-logo="0000.jpg",FOX 5 New York NY (WNYW) (720p)
-https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WNYW-Monetizer.m3u8
 
 #EXTINF:-1, tvg-logo="0000.jpg",PIX11 New York NY (720p)
 https://content.uplynk.com/channel/98828f7707b84dc496472d5789143df2.m3u8
 
-#EXTINF:-1, tvg-logo="0000.jpg",WXTV-DT1 (Univision 41) (720p)
-https://v-ny.theus6tv.tk/hls/41.1/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="0000.jpg",Telemundo WKAQ Noticias Puerto Rico
-https://wkaqlive-lh.akamaihd.net/i/PR_STREAM1@311877/master.m3u8
-
-#EXTINF:-1, tvg-logo="0000.jpg",France 24 Español (1080p)
-http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
-
-#EXTINF:-1, tvg-logo="lunatv.jpg", lunatv
-https://ss2.domint.net:3228/luna_str/lunatv/chunklist_w417305847.m3u8
-
-#EXTINF:-1, tvg-logo="lunatv.jpg", telecanal12
-https://cdn4.hostlagarto.com:8081/static/telecanal12/chunks.m3u8
-
 #EXTINF:-1, tvg-logo="300x95.png", RNN
 https://ss2.domint.net:3202/rnn_str/canal27/chunklist_w998557442.m3u8
-
-#EXTINF:-1,HMTV
-https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="agenda56.jpg",agenda56
-https://cloudflare.streamgato.us:3436/live/agenda56tvlive.m3u8
-
-#EXTINF:-1, tvg-logo="agenda56.jpg",TenarensesTV
-https://vdo2.streamgato.us:3541/live/tenarensestvlive.m3u8
 
 #EXTINF:-1, tvg-logo="Telenord.jpg",TELENORD Canal 10
 http://newyorkstream.ddns.net:5854/telenord10/telenord10/chunklist_w1285960486.m3u8
@@ -60,62 +30,7 @@ http://newyorkstream.ddns.net:5854/telenord8/telenord8/chunklist_w898524169.m3u8
 #EXTINF:-1 tvg-logo="0000000.jpg",canal25rd
 https://ss3.domint.net:3150/c25_str/canal25/chunklist_w174445157.m3u8
 
-#EXTINF:-1 tvg-logo="telecibao.jpg",Tele Cibao HD
-http://cm.hostlagarto.com:8081/Telecibao/Telecibao/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="supertv55.jpg",supertv 55
-http://ss8.domint.net:2128/stv_str/tv55/chunklist_w1601412925.m3u8
-
 #EXTINF:-1, tvg-logo="teleuniverso.JPG",teleuniverso
-https://cloudflare.streamgato.us:3437/live/teleuniversotvlive.m3u8
+https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
 
-#EXTINF:-1, tvg-logo="telecontacto.jpg",telecontacto
-https://vdo1.streamgato.us:3578/live/telecontactohdlive.m3u8
 
-#EXTINF:-1, tvg-logo="teleunion.jpg",teleunion
-http://server3.prostudionetwork.com:1945/teleunion/TU/chunklist_w1277826852.m3u8
-
-#EXTINF:-1, tvg-logo="megavision.jpg",megavision
-http://server3.prostudionetwork.com:1943/megavision/MV/chunklist_w891026317.m3u8
-
-#EXTINF:-1, tvg-logo="galaxiatv.jpg",Galaxiatv
-https://vdo1.streamgato.us:3839/live/galaxiatvlive.m3u8
-
-#EXTINF:-1, tvg-logo="telemilenio.jpg",Telemilenio
-http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="0000000.jpg",teleradio norte
-https://cdn4.hostlagarto.com:8081/static/teleradionortetv/chunks.m3u8?nimblesessionid=65809657
-
-#EXTINF:-1 tvg-logo="0000000.jpg",telenovisa43.com
-http://ramgolive.ddns.net:1935/telenovisa43/telenovisa43/chunklist_w2115093651.m3u8
-
-#EXTINF:-1 tvg-logo="0000000.jpg",tni51online
-https://ss8.domint.net:3126/tni_str/tni51/chunklist_w2072599995.m3u8
-
-#EXTINF:-1 tvg-logo="0000000.jpg",bellavision8
-https://cdn4.hostlagarto.com:8081/static/Bellavision8hd/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="0000000.jpg",tvplata
-https://ss6.domint.net:3104/tvp_str/tvplata/chunklist_w1231853562.m3u8
-
-#EXTINF:-1 tvg-logo="0000000.jpg",borealtelevision
-https://eu1.servers10.com:8081/8110/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="0000000.jpg",ghtelevision
-https://cloudflare.streamgato.us:3352/live/ghtelevisionhdlive.m3u8
-
-#EXTINF:-1 tvg-logo="0000000.jpg",fuego40
-https://video.misistemareseller.com/Fuegotv/Fuegotv/chunklist_w1321466818.m3u8
-
-#EXTINF:-1 tvg-logo="0000000.jpg",yunavision
-https://ss9.domint.net:3036/yv_str/yunavision/chunklist_w1924046957.m3u8
-
-#EXTINF:-1 tvg-logo="0000000.jpg",tv10sanjuan
-https://cloud3.streaminglivehd.com:1936/8256/8256/chunklist_w1876162753.m3u8
-
-#EXTINF:-1 tvg-logo="0000000.jpg",romanatv42
-https://5ee0faac3bbae.streamlock.net/cvmhbyrcat/cvmhbyrcat/chunklist_w1778575615.m3u8
-
-#EXTINF:-1 tvg-logo="0000000.jpg",canal19
-https://live.teledom.info:3713/live/cinevisionlive.m3u8
