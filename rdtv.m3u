@@ -1,36 +1,43 @@
 #EXTM3U
 
-#EXTINF:-1, tvg-logo="news12.jpg",NEWS 12 THE BRONX
+#EXTINF:-1, NEWS 12 THE BRONX
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12XH_A1/index_new.m3u8
 
-#EXTINF:-1, tvg-logo="0000.jpg",CBS New York
-https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
+#EXTINF:-1, telemedio-digital
+https://vdo1.streamgato.us:3677/live/telemileniolive.m3u8
 
-#EXTINF:-1, tvg-logo="0000.jpg",CBSN New York NY (720p)
-http://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8
+#EXTINF:-1, supertv55.tv
+https://cdn.mycloudstream.io/hls/live/broadcast/ib087ssb/mono.m3u8
 
-#EXTINF:-1, tvg-logo="0000.jpg",NBC New York 2
-https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
+#EXTINF:-1, telemilenio-canal-50
+https://vdo1.streamgato.us:3677/live/telemileniolive.m3u8
 
-#EXTINF:-1, tvg-logo="0000.jpg",PIX11 New York NY (720p)
-https://content.uplynk.com/channel/98828f7707b84dc496472d5789143df2.m3u8
-
-#EXTINF:-1, tvg-logo="300x95.png", RNN
-https://ss2.domint.net:3202/rnn_str/canal27/chunklist_w998557442.m3u8
-
-#EXTINF:-1, tvg-logo="Telenord.jpg",TELENORD Canal 10
-http://newyorkstream.ddns.net:5854/telenord10/telenord10/chunklist_w1285960486.m3u8
-
-#EXTINF:-1, tvg-logo="Telenord.jpg",TELENORD Canal 12
-http://newyorkstream.ddns.net:5854/telenord12/telenord12/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="Telenord.jpg",TELENORD Canal 8
-http://newyorkstream.ddns.net:5854/telenord8/telenord8/chunklist_w898524169.m3u8
-
-#EXTINF:-1 tvg-logo="0000000.jpg",canal25rd
-https://ss3.domint.net:3150/c25_str/canal25/chunklist_w174445157.m3u8
+#EXTINF:-1 tvg-logo="telecibao.jpg",Tele Cibao HD
+https://vdo2.streamgato.us:3713/live/telecibaotvlive.m3u8
 
 #EXTINF:-1, tvg-logo="teleuniverso.JPG",teleuniverso
 https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
 
+#EXTINF:-1, tvg-logo="galaxiatv.jpg",Galaxiatv
+https://streaming.grupomediosdelnorte.com:19360/galaxiateve/galaxiateve.m3u8
 
+#EXTINF:-1, telecontacto-canal-57-santiago
+https://streaming.grupomediosdelnorte.com:19360/telecontacto/telecontacto.m3u8
+
+#EXTINF:-1,  romana-tv-canal-42
+https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8
+
+#EXTINF:-1, noticias-16-santo-domingo
+https://cdn.essastream.com:3457/live/noticiasn16live.m3u8
+
+#EXTINF:-1, tv-norte
+https://angelistic.live:3785/hybrid/play.m3u8
+
+#EXTINF:-1, canal-htv-live
+https://vdo1.streamgato.us:3833/live/canalhtvlivelive.m3u8
+
+#EXTINF:-1, television-del-este
+https://vdo2.streamgato.us:3632/live/televisiondelestelive.m3u8
+
+#EXTINF:-1, coco-tv
+https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
