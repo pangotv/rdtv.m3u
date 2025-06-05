@@ -3,7 +3,7 @@
 #EXTINF:-1, NEWS 12 THE BRONX
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12XH_A1/index_new.m3u8
 
-#EXTINF:-1,RD: cdn37-en-vivo
+#EXTINF:-1, RD: cdn37-en-vivo
 https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/2c55658a-f26a-bed7-eb29-a28e610fd7c7.m3u8
 
 #EXTINF:-1, Canal 6 Hd
