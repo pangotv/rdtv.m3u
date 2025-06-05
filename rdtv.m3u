@@ -18,6 +18,9 @@ https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
 #EXTINF:-1, Galaxiatv
 https://streaming.grupomediosdelnorte.com:19360/galaxiateve/galaxiateve.m3u8
 
+#EXTINF:-1 Luna tv canal 25
+https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8
+
 #EXTINF:-1 Telecanal 12
 https://rdn.essastream.com:3258/live/telecanal12live.m3u8
 
