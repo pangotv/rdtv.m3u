@@ -30,6 +30,9 @@ https://rdn.essastream.com:3258/live/telecanal12live.m3u8
 #EXTINF:-1, telecontacto-canal-57-santiago
 https://streaming.grupomediosdelnorte.com:19360/telecontacto/telecontacto.m3u8
 
+#EXTINF:-1 Nexxo tv Canal 20
+https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
+
 #EXTINF:-1,  romana-tv-canal-42
 https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8
 
