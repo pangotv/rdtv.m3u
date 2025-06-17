@@ -42,12 +42,4 @@ https://cdn.essastream.com:3457/live/noticiasn16live.m3u8
 #EXTINF:-1, canal-htv-live
 https://vdo1.streamgato.us:3833/live/canalhtvlivelive.m3u8
 
-#EXTINF:-1, television-del-este
-https://vdo2.streamgato.us:3632/live/televisiondelestelive.m3u8
-
-#EXTINF:-1, Hmtv canal 33
-https://cnn.essastream.com:3091/live/hmtvlive.m3u8
-
-#EXTINF:-1, coco-tv
-https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
 
