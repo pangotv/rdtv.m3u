@@ -68,3 +68,6 @@ https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 
 #EXTINF:-1, xtremo-channel-canal-22
 https://ss2.tvrdomi.com:1936/xtremochannel/xtremochannel/chunklist.m3u8
+
+#EXTINF:-1, Tigueritos Tv
+https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/chunklist_w52752825.m3u8
