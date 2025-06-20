@@ -66,4 +66,5 @@ https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/chunklist_w460601303.m
 #EXTINF:-1, Quisqueya tv canal 17
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 
-
+#EXTINF:-1, xtremo-channel-canal-22
+https://ss2.tvrdomi.com:1936/xtremochannel/xtremochannel/chunklist.m3u8
