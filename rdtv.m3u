@@ -63,5 +63,7 @@ https://d2kowtvrzzi7ps.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae04
 #EXTINF:-1, Ready tv
 https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/chunklist_w460601303.m3u8
 
+#EXTINF:-1, Quisqueya tv canal 17
+https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 
 
