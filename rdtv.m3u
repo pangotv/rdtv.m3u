@@ -48,6 +48,9 @@ https://cdn.essastream.com:3457/live/noticiasn16live.m3u8
 #EXTINF:-1, canal-htv-live
 https://vdo1.streamgato.us:3833/live/canalhtvlivelive.m3u8
 
+#EXTINF:-1, Supercanal 33
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_540.m3u8
+
 #EXTINF:-1, Eyewitness News Live Streaming Video - ABC7 New York
 https://content.uplynk.com/channel/ext/a4e18e29d9624114a7eac2829aac559e/abcnewslive.m3u8?ad._v=2&ad.preroll=0&ad.fill_slate=1&ad.ametr=1&ad.vid=otv-11316918
 
