@@ -77,3 +77,6 @@ https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/chunklist_w52752825.m3u8
 
 #EXTINF:-1, redtv-rd
 https://cast.tunzilla.com/http://newyorkstream.ddns.net:5854/enlacecanalamerica/encoderRD/playlist.m3u8
+
+#EXTINF:-1, Rocavision
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
