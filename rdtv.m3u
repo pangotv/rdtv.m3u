@@ -74,3 +74,6 @@ https://ss2.tvrdomi.com:1936/xtremochannel/xtremochannel/chunklist.m3u8
 
 #EXTINF:-1, Tigueritos Tv
 https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/chunklist_w52752825.m3u8
+
+#EXTINF:-1, redtv-rd
+https://cast.tunzilla.com/http://newyorkstream.ddns.net:5854/enlacecanalamerica/encoderRD/playlist.m3u8
