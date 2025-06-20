@@ -86,3 +86,13 @@ https://cloud5.livescast.com:19360/canaltvquisqueya/canaltvquisqueya.m3u8
 
 #EXTINF:-1, Cascara Tv 
 https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/chunklist.m3u8
+
+#EXTINF:-1, Telealtura canal 17
+https://live20.bozztv.com/akamaissh101/ssh101/codificador7/chunks.m3u8
+
+#EXTINF:-1, Ame 47
+https://ss2.tvrdomi.com:1936/ame47/ame47/chunklist.m3u8
+
+#EXTINF:-1, Farovision Canal 22
+https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8
+
