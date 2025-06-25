@@ -24,9 +24,6 @@ https://streaming.grupomediosdelnorte.com:19360/galaxiateve/galaxiateve.m3u8
 #EXTINF:-1, Luna tv canal 25
 https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8
 
-#EXTINF:-1, Nexxo tv Canal 20
-https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
-
 #EXTINF:-1, noticias-16-santo-domingo
 https://cdn.essastream.com:3457/live/noticiasn16live.m3u8
 
@@ -42,6 +39,9 @@ https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 #EXTINF:-1, Claro Television Dominicana
 https://cloud5.livescast.com:19360/canaltvquisqueya/canaltvquisqueya.m3u8
 
-#EXTINF:-1, Farovision Canal 22
-https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8
+#EXTINF:-1, CDN2
+https://live.eu-north-1a.cf.dmcdn.net/sec2(-Zx_F8J8Xt5X70l8KyKE-v6K_zUrYtdKYhQQlxaGRrTLBuA3-RFL-N4dg5kB7evasKImibw0xMjwAj-5KBFbt_hMp0HaB7tMI8Y8GduOt6X2wwLLCUk9rCr6X75KpOz_ElTsxJcdOowX2dKzz84cgA)/dm/3/x9lincs/s/live-480.m3u
+
+#EXTINF:-1, CDN1
+https://live.eu-north-1a.cf.dmcdn.net/sec2(sMAT3SAY733Z3QoN7XRvhG8psPpi5OfJ4UXF3WGsg90hJnulcEZW-Am0c14UcEoGhE4Rsv4n54WAqwDMHUHNNl4YvHjWu1676PWwjIqX-7eTZTH1JtET-Y9rkB_4ruCWxIroceHYmmqB5TZapZ7rsg)/dm/3/x9lincs/s/live-720.m3u8
 
