@@ -6,17 +6,11 @@ https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12XH_A1/index
 #EXTINF:-1, Rnn Canal 27
 https://2-fss-2.streamhoster.com/pl_120/206532-5753030-1/chunklist.m3u8
 
-#EXTINF:-1, CDN
-net/sec2(fNgq-kJg-4OLGNMpezaBqIjmJQxtw2QMqjTlUtHeetfol4dYQ08Hc8UjP2DsSdbxETy8028HQMpUK1V_NfBTDyR-fMc_MBXE1GMSs4o_12oWharVOoNbrikY87_15ic4)/dm/3/x9lincs/s/live-480.m3u8#cell=lcf-eu-north-1a
-
 #EXTINF:-1, Telenord Canal 10
 https://rdn.essastream.com:3676/live/telenord10live.m3u8
 
 #EXTINF:-1, Tele Cibao Hd
 https://vdo2.streamgato.us:3713/live/telecibaotvlive.m3u8
-
-#EXTINF:-1, telemedio-digital
-https://vdo1.streamgato.us:3677/live/telemileniolive.m3u8
 
 #EXTINF:-1, supertv55.tv
 https://ss2.tvrdomi.com:1936/supertv55/supertv55/chunklist_w1056477432.m3u8
@@ -33,9 +27,6 @@ https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8
 #EXTINF:-1, Nexxo tv Canal 20
 https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
 
-#EXTINF:-1,  romana-tv-canal-42
-https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8
-
 #EXTINF:-1, noticias-16-santo-domingo
 https://cdn.essastream.com:3457/live/noticiasn16live.m3u8
 
@@ -48,20 +39,8 @@ https://d2kowtvrzzi7ps.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae04
 #EXTINF:-1, Quisqueya tv canal 17
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 
-#EXTINF:-1, xtremo-channel-canal-22
-https://ss2.tvrdomi.com:1936/xtremochannel/xtremochannel/chunklist.m3u8
-
-#EXTINF:-1, Tigueritos Tv
-https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/chunklist_w52752825.m3u8
-
 #EXTINF:-1, Claro Television Dominicana
 https://cloud5.livescast.com:19360/canaltvquisqueya/canaltvquisqueya.m3u8
-
-#EXTINF:-1, Cascara Tv 
-https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/chunklist.m3u8
-
-#EXTINF:-1, Telealtura canal 17
-https://live20.bozztv.com/akamaissh101/ssh101/codificador7/chunks.m3u8
 
 #EXTINF:-1, Farovision Canal 22
 https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8
