@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, CDN37
+https://live.eu-north-1b.cf.dmcdn.net/sec2(clt07dJuRb8lDI7E7iAPg4ueXK_whwGe1HUzpo9VIx6imsq2XNkR9qdXa7h7plhl9Rs-ujxfR2oSi2tqJsN8n5VNwYXThJNtLAgFhjxcEvVEdQx3cwH5Zqez9nU7Dsect1OTVOwY0MSOzCNCaS7Hag)/dm/3/x9lincs/s/
+
 #EXTINF:-1, NEWS 12 THE BRONX
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12XH_A1/index_new.m3u8
 
@@ -32,7 +35,3 @@ https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 
 #EXTINF:-1, Claro Television Dominicana
 https://cloud5.livescast.com:19360/canaltvquisqueya/canaltvquisqueya.m3u8
-
-#EXTINF:-1, CDN37
-https://live.eu-north-1b.cf.dmcdn.net/sec2(clt07dJuRb8lDI7E7iAPg4ueXK_whwGe1HUzpo9VIx6imsq2XNkR9qdXa7h7plhl9Rs-ujxfR2oSi2tqJsN8n5VNwYXThJNtLAgFhjxcEvVEdQx3cwH5Zqez9nU7Dsect1OTVOwY0MSOzCNCaS7Hag)/dm/3/x9lincs/s/
-
