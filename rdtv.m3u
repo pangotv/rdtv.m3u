@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1, CDN37
-https://dmxleo.dailymotion.com/cdn/manifest/video/x9lincs.m3u8?error=1108
+https://cdndirector.dailymotion.com/cdn/live/video/x9lincs.m3u8?sec=wiU4PMK7Bxmgtc-yrfspPm9tjpUile6qq7khoo4lvdghtqEr6rfUIqzmzhytjywAQJenYNK_6BLzqC1gaMVSvw&dmTs=706321&dmV1st=64ab6cf3-c535-0bd6-dc31-e481177a4d90
 
 #EXTINF:-1, NEWS 12 THE BRONX
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12XH_A1/index_new.m3u8
