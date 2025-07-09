@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, cdn
-https://video-lga3-1.xx.fbcdn.net/hvideo-ldc-pnb/_nc_cat-111/_nc_sr_t-4/v/rAScABZ8B-ajsKj2Qq6pN50FE6KFmDsfa-UGxm-QMBzGdJA/_nc_ohc-1QrsagEGZ34Q7kNvwEbKhHT/live-dash/dash-abr-ibr-audio/1143238554495582.mpd?_nc_zt=28&ccb=2-4&ms=m_CTPA&sc_t=1&oh=00_AfRsDaXcZ-2jyvlLdHFeeLgPMbzxB38sUSJ2ExmxSP3DOg&oe=686F404E
-
 #EXTINF:-1, NEWS 12 THE BRONX
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12XH_A1/index_new.m3u8
 
