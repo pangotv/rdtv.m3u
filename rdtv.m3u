@@ -30,6 +30,12 @@ https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8
 #EXTINF:-1, Eyewitness News Live Streaming Video - ABC7 New York
 https://content.uplynk.com/channel/ext/a4e18e29d9624114a7eac2829aac559e/abcnewslive.m3u8?ad._v=2&ad.preroll=0&ad.fill_slate=1&ad.ametr=1&ad.vid=otv-11316918
 
+#EXTINF:-1, CBS News New York
+https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
+
+#EXTINF:-1, NBC New York News
+https://nbcu-nbcnewyorknews-firetv.amagi.tv/playlist.m3u8
+
 #EXTINF:-1, Telemundo New York (47)
 https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/7b7deb18-ed92-4360-bc6e-4d3d0cb45c80/2.m3u8
 
