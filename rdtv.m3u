@@ -21,6 +21,9 @@ https://streaming.grupomediosdelnorte.com:19360/telecontacto/telecontacto.m3u8
 #EXTINF:-1, teleuniverso
 https://videoserver.tmcreativos.com:19360/kptjeckkaa/kptjeckkaa.m3u8
 
+#EXTINF:-1, teleuniverso-ts
+https://videoserver.tmcreativos.com:19360/kptjeckkaa/kptjeckkaa_0_02301.ts
+
 #EXTINF:-1, Galaxiatv
 https://streaming.grupomediosdelnorte.com:19360/galaxiateve/galaxiateve.m3u8
 
