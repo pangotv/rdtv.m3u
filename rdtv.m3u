@@ -12,15 +12,6 @@ https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 #EXTINF:-1, Rnn Canal 27
 https://2-fss-2.streamhoster.com/pl_120/206532-5753030-1/chunklist.m3u8
 
-#EXTINF:-1, telenord 10
-https://rdn.essastream.com:3676/live/telenord10live.m3u8
-
-#EXTINF:-1, telenord 8
-https://rdn.essastream.com:3170/live/telenord8live.m3u8
-
-#EXTINF:-1, tenarenses
-https://vdo2.streamgato.us:3305/live/tenarensestvrdlive.m3u8
-
 #EXTINF:-1, supertv55.tv
 https://ss2.tvrdomi.com:1936/supertv55/supertv55/chunklist_w1056477432.m3u8
 
@@ -41,9 +32,3 @@ https://content.uplynk.com/channel/ext/a4e18e29d9624114a7eac2829aac559e/abcnewsl
 
 #EXTINF:-1, CBS News New York
 https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
-
-#EXTINF:-1, NBC New York News
-https://nbcu-nbcnewyorknews-firetv.amagi.tv/playlist.m3u8
-
-#EXTINF:-1, Telemundo New York 47
-https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/f0d6413c-e69c-4e91-80f0-4ce9d18e329a/2.m3u8
