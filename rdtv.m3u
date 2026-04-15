@@ -3,14 +3,8 @@
 #EXTINF:-1, NEWS 12 THE BRONX
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12XH_A1/index_new.m3u8
 
-#EXTINF:-1, NEWS 12
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fff49cfb5cd4f0007c2b0dc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5103-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c438c5e4-4d4e-4037-8b44-c6782c44b796
-
 #EXTINF:-1, France 24 Español
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
-
-#EXTINF:-1, Rnn Canal 27
-https://2-fss-2.streamhoster.com/pl_120/206532-5753030-1/chunklist.m3u8
 
 #EXTINF:-1, supertv55.tv
 https://ss2.tvrdomi.com:1936/supertv55/supertv55/chunklist_w1056477432.m3u8
@@ -27,8 +21,3 @@ https://streaming.grupomediosdelnorte.com:19360/galaxiateve/galaxiateve.m3u8
 #EXTINF:-1, Luna tv canal 25
 https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8
 
-#EXTINF:-1, Eyewitness News Live Streaming Video - ABC7 New York
-https://content.uplynk.com/channel/ext/a4e18e29d9624114a7eac2829aac559e/abcnewslive.m3u8?ad._v=2&ad.preroll=0&ad.fill_slate=1&ad.ametr=1&ad.vid=otv-11316918
-
-#EXTINF:-1, CBS News New York
-https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
