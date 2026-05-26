@@ -24,3 +24,5 @@ https://streaming.grupomediosdelnorte.com:19360/galaxiateve/galaxiateve.m3u8
 #EXTINF:-1, Luna tv canal 25
 https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8
 
+#EXTINF:-1, Tigueritos Tv
+https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/chunklist_w52752825.m3u8
