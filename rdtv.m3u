@@ -1,13 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1, Telenord Canal 10
+https://fox.hostlagarto.com:8081/telenord10/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, NEWS 12 THE BRONX
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12XH_A1/index_new.m3u8
 
 #EXTINF:-1, France 24 Español
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
-
-#EXTINF:-1, Telenord Canal 10
-https://fox.hostlagarto.com:8081/telenord10/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, supertv55.tv
 https://ss2.tvrdomi.com:1936/supertv55/supertv55/chunklist_w1056477432.m3u8
