@@ -26,3 +26,6 @@ https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8
 
 #EXTINF:-1, Tigueritos Tv
 https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/chunklist_w52752825.m3u8
+
+#EXTINF:-1, Hispantv
+https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
