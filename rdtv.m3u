@@ -3,8 +3,8 @@
 #EXTINF:-1, Telenord Canal 10
 https://fox.hostlagarto.com:8081/telenord10/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, CDN 37
-https://live.eu-north-1a.cf.dmcdn.net/sec2(mqdM5G-CH1pz9vkWIFsdDzfObtgvkU6iaH032S2fMcPBNs7lNzppaDwIGXPIhv2tv6e47-mlTsKXd4DZSWVAnG9WJ2axUhqagZC7AkhVtkjZwKEr1x2hwCgzEptIMXm7)/dm/3/x9lincs/s/live-720.m3u8#cell=lcf-eu-north-1a
+#EXTINF:-1, Telenord Canal 8
+https://cdnfox.hostlagarto.com/telenord8/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, NEWS 12 THE BRONX
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12XH_A1/index_new.m3u8
